@@ -1,0 +1,14 @@
+{
+  "name": "client1",
+  "version": "1.0.0",
+  "description": "simple REST client showing how hippiejs works",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hippie.js"
+  },
+  "author": "Dennis Sterzenbach <dennis.sterzenbach@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hippie": "^0.5.1"
+  }
+}

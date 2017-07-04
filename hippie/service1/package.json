@@ -1,0 +1,15 @@
+{
+  "name": "demo-rest-service",
+  "version": "1.0.0",
+  "description": "demo express service which simply serves dummy content accesible via REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dennis Sterzenbach <dennis.sterzenbach@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.3"
+  }
+}
